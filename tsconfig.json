@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES2019",
+        // node resolution mode allows VSCode to find 
+        // nested imports and imports in node_modules
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react",
+        "jsxFactory": ""
+    }
+}
