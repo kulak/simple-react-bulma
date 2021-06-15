@@ -10,6 +10,11 @@
     "build": "rollup -c",
     "watch": "rollup -c -w"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kulak/simple-react-bulma.git"
+  },
+  "homepage": "https://github.com/kulak/simple-react-bulma",
   "author": "Sergei Gnezdov",
   "license": "MIT",
   "devDependencies": {

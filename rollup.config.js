@@ -23,7 +23,7 @@ const sharedGlobals = {
 }
 
 const sharedOutput = {
-	dir: 'build',
+	dir: 'dist',
 	// es - for browser modules
 	format: 'es',
 	sourcemap: dev,
