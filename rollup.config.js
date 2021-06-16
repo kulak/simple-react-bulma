@@ -23,7 +23,7 @@ const sharedGlobals = {
 }
 
 const sharedOutput = {
-	dir: 'dist',
+	// dir: 'dist',
 	// es - for browser modules
 	format: 'es',
 	sourcemap: dev,
@@ -46,6 +46,7 @@ export default [
 		Object.assign(sharedOutput, {
 			// variable exported into Browser
 			name: 'simpleReactComponents',
+			file: 'dist/index.esm.js'
 		}),
 	],
 	plugins: [
