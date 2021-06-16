@@ -1,6 +1,6 @@
 {
   "name": "simple-react-bulma",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Simple components for react bulma",
   "module": "dist/index.esm.js",
   "directories": {
